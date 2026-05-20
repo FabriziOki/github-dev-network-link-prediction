@@ -1,0 +1,19 @@
+[project]
+name = "sn-link-prediction"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    # Core ML
+    "torch>=2.3",
+    "torch-geometric>=2.5",
+    # Classical + evaluation
+    "networkx>=3.3",
+    "scikit-learn>=1.5",
+    # Visualization
+    "umap-learn>=0.5",
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+    # Data
+    "pandas>=2.2",
+    "numpy>=1.26",
+]

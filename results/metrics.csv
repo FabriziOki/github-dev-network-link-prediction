@@ -1,0 +1,7 @@
+method,tier,split,auc,ap
+Common Neighbors,1,val,0.793251,0.790264
+Jaccard,1,val,0.767695,0.698432
+Adamic-Adar,1,val,0.797858,0.806387
+Common Neighbors,1,test,0.818349,0.815335
+Jaccard,1,test,0.784113,0.711699
+Adamic-Adar,1,test,0.823817,0.832686
