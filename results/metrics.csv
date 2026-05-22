@@ -5,3 +5,7 @@ Adamic-Adar,1,val,0.797858,0.806387
 Common Neighbors,1,test,0.818349,0.815335
 Jaccard,1,test,0.784113,0.711699
 Adamic-Adar,1,test,0.823817,0.832686
+Node2Vec + LR,2,val,0.873658,0.903864
+Node2Vec + LR,2,test,0.872359,0.902424
+GraphSAGE,3,val,0.828427,0.832519
+GraphSAGE,3,test,0.840182,0.845315
