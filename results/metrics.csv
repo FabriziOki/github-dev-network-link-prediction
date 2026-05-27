@@ -9,3 +9,5 @@ Node2Vec + LR,2,val,0.873658,0.903864
 Node2Vec + LR,2,test,0.872359,0.902424
 GraphSAGE,3,val,0.828427,0.832519
 GraphSAGE,3,test,0.840182,0.845315
+GraphSAGE + Heur.,4,val,0.952371,0.958700
+GraphSAGE + Heur.,4,test,0.953798,0.960318
